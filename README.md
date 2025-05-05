@@ -1,4 +1,4 @@
-👋 **¡Hola! Soy Harby 👨‍💻 💻 — Desarrollador web multiplataforma.**<br>
+👋 **¡Hola! Soy Harby 👨‍💻 💻**<br>
 🎓**Estudiante de 1º(DAM)
 💻 Apasionado por la tecnología, actualmente estoy aprendiendo y trabajando con**:
 
