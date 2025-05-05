@@ -1,5 +1,5 @@
-👋 **¡Hola! Soy Harby Blanco 👨‍💻 💻 — Desarrollador web multiplataforma**<br>
-🎓**Estudiante de 1º de Desarrollo de Aplicaciones Multiplataforma (DAM)
+👋 **¡Hola! Soy Harby 👨‍💻 💻 — Desarrollador web multiplataforma.**<br>
+🎓**Estudiante de 1º(DAM)
 💻 Apasionado por la tecnología, actualmente estoy aprendiendo y trabajando con**:
 
 ☕ **Java y conceptos de programación orientada a objetos**
